@@ -1,0 +1,16 @@
+2019-03-18T06:28:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 2007
+
+2019-03-18T06:28:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\wordpress\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\portfolio\portfolio.php on line 37
+
+2019-03-18T06:28:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\wordpress\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\portfolio\portfolio.php on line 37
+
+2019-03-18T06:28:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\wordpress\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\portfolio\portfolio.php on line 37
+
+2019-03-18T06:29:55+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in D:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 2007
+
+2019-03-18T06:32:11+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in D:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 2007
+
+2019-03-18T06:33:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\admin\helper\class-wc-helper-compat.php on line 2
+
+2019-03-18T06:34:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 2007
+
